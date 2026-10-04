@@ -1,0 +1,330 @@
+{
+  "common_rules": [
+    "Complete visitor induction before entering operational areas.",
+    "Use PPE required by the site's hazard assessment and instructions.",
+    "Stay on designated pedestrian routes and obey traffic controls.",
+    "Perform Take-5 / hazard check before work.",
+    "Use Permit-to-Work where required.",
+    "Apply LOTO before hazardous maintenance or work on stored energy.",
+    "Keep safe distance from vehicles and mobile equipment.",
+    "Do not enter restricted areas without authorization.",
+    "Report unsafe conditions, near misses and incidents.",
+    "Know the alarm, evacuation route and assembly point.",
+    "Follow site SOPs and instructions from authorized personnel.",
+    "Never bypass guards, interlocks or safety devices."
+  ],
+  "missions": [
+    {
+      "id": 1,
+      "title": "Visitor registration & induction",
+      "description": "Complete the Visitor registration & induction safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 2,
+      "title": "PPE selection",
+      "description": "Complete the PPE selection safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 3,
+      "title": "Take-5 hazard scan",
+      "description": "Complete the Take-5 hazard scan safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 4,
+      "title": "Pedestrian route challenge",
+      "description": "Complete the Pedestrian route challenge safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 5,
+      "title": "Vehicle-pedestrian segregation",
+      "description": "Complete the Vehicle-pedestrian segregation safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 6,
+      "title": "Traffic sign recognition",
+      "description": "Complete the Traffic sign recognition safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 7,
+      "title": "Housekeeping hazard hunt",
+      "description": "Complete the Housekeeping hazard hunt safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 8,
+      "title": "Slip/trip prevention",
+      "description": "Complete the Slip/trip prevention safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 9,
+      "title": "Electrical awareness",
+      "description": "Complete the Electrical awareness safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 10,
+      "title": "LOTO sequence",
+      "description": "Complete the LOTO sequence safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 11,
+      "title": "Permit-to-work decision",
+      "description": "Complete the Permit-to-work decision safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 12,
+      "title": "Work-at-height setup",
+      "description": "Complete the Work-at-height setup safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 13,
+      "title": "Scaffold safety check",
+      "description": "Complete the Scaffold safety check safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 14,
+      "title": "Ladder inspection",
+      "description": "Complete the Ladder inspection safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 15,
+      "title": "Confined-space awareness",
+      "description": "Complete the Confined-space awareness safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 16,
+      "title": "Gas-test decision",
+      "description": "Complete the Gas-test decision safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 17,
+      "title": "Fire extinguisher selection",
+      "description": "Complete the Fire extinguisher selection safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 18,
+      "title": "Fire alarm response",
+      "description": "Complete the Fire alarm response safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 19,
+      "title": "Emergency evacuation",
+      "description": "Complete the Emergency evacuation safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 20,
+      "title": "Assembly-point identification",
+      "description": "Complete the Assembly-point identification safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 21,
+      "title": "First-aid response",
+      "description": "Complete the First-aid response safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 22,
+      "title": "Near-miss reporting",
+      "description": "Complete the Near-miss reporting safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 23,
+      "title": "Unsafe-condition reporting",
+      "description": "Complete the Unsafe-condition reporting safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 24,
+      "title": "Manual handling",
+      "description": "Complete the Manual handling safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 25,
+      "title": "Material stacking",
+      "description": "Complete the Material stacking safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 26,
+      "title": "Forklift awareness",
+      "description": "Complete the Forklift awareness safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 27,
+      "title": "Crane exclusion zone",
+      "description": "Complete the Crane exclusion zone safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 28,
+      "title": "Lifting-plan awareness",
+      "description": "Complete the Lifting-plan awareness safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 29,
+      "title": "Hot-work controls",
+      "description": "Complete the Hot-work controls safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 30,
+      "title": "Spark/fire watch",
+      "description": "Complete the Spark/fire watch safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 31,
+      "title": "Chemical-label awareness",
+      "description": "Complete the Chemical-label awareness safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 32,
+      "title": "SDS awareness",
+      "description": "Complete the SDS awareness safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 33,
+      "title": "Dust-control awareness",
+      "description": "Complete the Dust-control awareness safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 34,
+      "title": "Noise-zone awareness",
+      "description": "Complete the Noise-zone awareness safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 35,
+      "title": "Eye-protection challenge",
+      "description": "Complete the Eye-protection challenge safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 36,
+      "title": "Hand-protection challenge",
+      "description": "Complete the Hand-protection challenge safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 37,
+      "title": "Respiratory-protection awareness",
+      "description": "Complete the Respiratory-protection awareness safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 38,
+      "title": "Emergency communication",
+      "description": "Complete the Emergency communication safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 39,
+      "title": "Radio/phone etiquette",
+      "description": "Complete the Radio/phone etiquette safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 40,
+      "title": "Stop-work decision",
+      "description": "Complete the Stop-work decision safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 41,
+      "title": "Safe access/egress",
+      "description": "Complete the Safe access/egress safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 42,
+      "title": "Barrier and barricade check",
+      "description": "Complete the Barrier and barricade check safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 43,
+      "title": "Machine guarding awareness",
+      "description": "Complete the Machine guarding awareness safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 44,
+      "title": "Stored-energy awareness",
+      "description": "Complete the Stored-energy awareness safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 45,
+      "title": "Heat-stress awareness",
+      "description": "Complete the Heat-stress awareness safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 46,
+      "title": "Weather/emergency awareness",
+      "description": "Complete the Weather/emergency awareness safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 47,
+      "title": "Contractor induction",
+      "description": "Complete the Contractor induction safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 48,
+      "title": "Visitor escort",
+      "description": "Complete the Visitor escort safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 49,
+      "title": "Plant route memory",
+      "description": "Complete the Plant route memory safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 50,
+      "title": "Emergency route memory",
+      "description": "Complete the Emergency route memory safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 51,
+      "title": "Final safety audit",
+      "description": "Complete the Final safety audit safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    },
+    {
+      "id": 52,
+      "title": "Exit & debrief",
+      "description": "Complete the Exit & debrief safety challenge.",
+      "pass": "Identify the safe action before continuing."
+    }
+  ]
+}

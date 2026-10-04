@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Nagpur Refractory Works",
+    "code": "NRW",
+    "country": "India",
+    "region": "Maharashtra",
+    "type": "Refractory manufacturing"
+  },
+  {
+    "name": "Katni Refractory Works",
+    "code": "KRW",
+    "country": "India",
+    "region": "Madhya Pradesh",
+    "type": "Refractory manufacturing"
+  },
+  {
+    "name": "Wankaner Refractory Works",
+    "code": "WRW",
+    "country": "India",
+    "region": "Gujarat",
+    "type": "Refractory manufacturing"
+  },
+  {
+    "name": "Hysil - Dharuhera",
+    "code": "HYSIL",
+    "country": "India",
+    "region": "Haryana",
+    "type": "Refractory manufacturing"
+  },
+  {
+    "name": "Durgapur Plant",
+    "code": "DGP",
+    "country": "India",
+    "region": "West Bengal",
+    "type": "Refractory manufacturing"
+  },
+  {
+    "name": "Bhubaneswar Refractory Works",
+    "code": "BRW",
+    "country": "India",
+    "region": "Odisha",
+    "type": "Refractory manufacturing"
+  },
+  {
+    "name": "Nagpur Office",
+    "code": "NAG-OFFICE",
+    "country": "India",
+    "region": "Maharashtra",
+    "type": "Office"
+  },
+  {
+    "name": "Cosseria",
+    "code": "COS",
+    "country": "Italy",
+    "region": "Liguria",
+    "type": "Industrial site"
+  },
+  {
+    "name": "Neuwied",
+    "code": "NEU",
+    "country": "Germany",
+    "region": "Rhineland-Palatinate",
+    "type": "Industrial site"
+  },
+  {
+    "name": "Abbeville",
+    "code": "ABB",
+    "country": "France",
+    "region": "Hauts-de-France",
+    "type": "Industrial site"
+  },
+  {
+    "name": "Fiorano",
+    "code": "FIO",
+    "country": "Italy",
+    "region": "Emilia-Romagna",
+    "type": "Industrial site"
+  },
+  {
+    "name": "PingTung",
+    "code": "PT",
+    "country": "Taiwan",
+    "region": "Pingtung",
+    "type": "Industrial site"
+  }
+]
